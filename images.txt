@@ -6,4 +6,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ubuntu:20.04
-enmotech/opengauss:3.0.0
+#enmotech/opengauss:3.0.0
+kylincloud/kylin:V10-SP1

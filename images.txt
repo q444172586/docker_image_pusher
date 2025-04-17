@@ -6,3 +6,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu:20.04
+opengauss:3.0.0

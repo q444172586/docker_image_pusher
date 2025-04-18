@@ -8,4 +8,4 @@
 #ubuntu:20.04
 #enmotech/opengauss:3.0.0
 #--platform=linux/amd64 hxsoong/kylin:v10-sp3
-sequenceiq/kylin:0.7.2
+sequenceiq/kylin:1.2

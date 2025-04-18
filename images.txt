@@ -7,5 +7,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ubuntu:20.04
 #enmotech/opengauss:3.0.0
-# --platform=linux/amd64 hxsoong/kylin:v10-sp3
---platform=linux/amd64 macrosan/kylin:v10-sp3
+#--platform=linux/amd64 hxsoong/kylin:v10-sp3
+#--platform=linux/amd64 macrosan/kylin:v10-sp3
+kylincloud/kylin:16.04

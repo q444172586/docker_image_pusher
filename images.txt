@@ -10,4 +10,5 @@
 #--platform=linux/amd64 hxsoong/kylin:v10-sp3
 #--platform=linux/amd64 macrosan/kylin:v10-sp3
 #kylincloud/kylin:16.04
-securityneo/neokylin:openjdk18
+#securityneo/neokylin:openjdk18
+cnxc/dm8

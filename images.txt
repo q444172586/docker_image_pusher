@@ -11,4 +11,4 @@
 #--platform=linux/amd64 macrosan/kylin:v10-sp3
 #kylincloud/kylin:16.04
 #securityneo/neokylin:openjdk18
-cnxc/dm8
+cnxc/dm8:20250117

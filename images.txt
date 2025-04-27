@@ -12,4 +12,5 @@
 #kylincloud/kylin:16.04
 #securityneo/neokylin:openjdk18
 #cnxc/dm8:20250117
-sizx/dm8:1-2-128-22.08.04-166351-20005-CTM
+#sizx/dm8:1-2-128-22.08.04-166351-20005-CTM
+gitlab/gitlab-ce

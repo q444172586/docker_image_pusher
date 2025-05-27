@@ -13,4 +13,5 @@
 #securityneo/neokylin:openjdk18
 #cnxc/dm8:20250117
 #sizx/dm8:1-2-128-22.08.04-166351-20005-CTM
-gitlab/gitlab-ce
+#gitlab/gitlab-ce
+adoptopenjdk/openjdk8:ubi-jre
